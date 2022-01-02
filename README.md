@@ -1,7 +1,5 @@
 # Flight-Delay-Prediction
 
-<img src="static/background.jpg" width="1000" height="200">
-
 ## Introduction
 Delay is one of the most remembered performance indicators of any transportation system. Notably, commercial aviation players understand delay as the period by which a flight is late or postponed. Thus, a delay may be represented by the difference between scheduled and real times of departure or arrival of a plane. Country regulator authorities have a multitude of indicators related to tolerance thresholds for flight delays. Indeed, flight delay is an essential subject in the context of air transportation systems. In 2013, 36% of flights delayed by more than five minutes in Europe, 31.1% of flights delayed by more than 15 minutes in the United States. This indicates how relevant this indicator is and how it affects no matter the scale of airline meshes. 
 To better understand the entire flight ecosystems, vast volumes of data from commercial aviation is collected every moment and stored in databases. Submerged in this massive amount of data produced by sensors and IoT, analysts and data scientists are intensifying their computational and data management skills to extract useful information from each datum. In this context, the procedure of comprehending the domain, managing data and applying a model is known as Data Science, a trend in solving challenging problems related to Big Data. 
