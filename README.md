@@ -45,6 +45,5 @@ Run the script<br>
 <code>>> python app.py</code>
 
 <br>Contributors <br>
-* <a href= 'https://github.com/himanij11'>Himani Joshi</a> <br>
-* <a href= 'https://github.com/adinath10'>Adinath Kankekar</a> <br>
-* <a href= 'https://github.com/Devvrat53'>Devvrat Mungekar</a>
+* <a >Himani Joshi</a> <br>
+
