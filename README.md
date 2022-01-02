@@ -44,6 +44,6 @@ Setup the virtual environment and turn it on <br>
 Run the script<br>
 <code>>> python app.py</code>
 
-<br>Contributors <br>
-* <a >Himani Joshi</a> <br>
+<br>Contributor<br>
+* <a >Lavan Theja</a> <br>
 
